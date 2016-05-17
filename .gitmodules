@@ -1,0 +1,54 @@
+[submodule "steam-condenser-php"]
+	path = steam-condenser-php
+	url = git@github.com:jaredballou/steam-condenser-php.git
+[submodule "php-vpk-reader"]
+	path = php-vpk-reader
+	url = git@github.com:jaredballou/php-vpk-reader.git
+[submodule "vtf2tga"]
+	path = vtf2tga
+	url = git@github.com:jaredballou/vtf2tga.git
+[submodule "VTFLib"]
+	path = VTFLib
+	url = git@github.com:jaredballou/VTFLib.git
+[submodule "libtxc_dxtn"]
+	path = libtxc_dxtn
+	url = git@github.com:jaredballou/libtxc_dxtn.git
+[submodule "source-sdk-2013"]
+	path = source-sdk-2013
+	url = git@github.com:jaredballou/source-sdk-2013.git
+[submodule "pysmx"]
+	path = pysmx
+	url = git@github.com:jaredballou/pysmx.git
+[submodule "php-binary"]
+	path = php-binary
+	url = git@github.com:jaredballou/php-binary.git
+[submodule "webgl-source"]
+	path = webgl-source
+	url = git@github.com:jaredballou/webgl-source.git
+[submodule "SteamWorks"]
+	path = SteamWorks
+	url = git@github.com:jaredballou/SteamWorks.git
+[submodule "open-steamworks"]
+	path = open-steamworks
+	url = git@github.com:jaredballou/open-steamworks.git
+[submodule "sourcepawn-inc-parser"]
+	path = sourcepawn-inc-parser
+	url = git@github.com:jaredballou/sourcepawn-inc-parser.git
+[submodule "sourcemod"]
+	path = sourcemod
+	url = git@github.com:jaredballou/sourcemod.git
+[submodule "python-valve"]
+	path = python-valve
+	url = git@github.com:jaredballou/python-valve.git
+[submodule "PHP-Source-Query"]
+	path = PHP-Source-Query
+	url = git@github.com:jaredballou/PHP-Source-Query.git
+[submodule "Day-of-Infamy"]
+	path = Day-of-Infamy
+	url = git@github.com:NewWorldInteractive/Day-of-Infamy.git
+[submodule "lysis-java"]
+	path = lysis-java
+	url = git@github.com:jaredballou/lysis-java.git
+[submodule "smarty"]
+	path = smarty
+	url = git@github.com:smarty-php/smarty.git
