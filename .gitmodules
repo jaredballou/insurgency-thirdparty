@@ -1,54 +1,72 @@
 [submodule "steam-condenser-php"]
 	path = steam-condenser-php
 	url = git@github.com:jaredballou/steam-condenser-php.git
+	branch = master
 [submodule "php-vpk-reader"]
 	path = php-vpk-reader
 	url = git@github.com:jaredballou/php-vpk-reader.git
+	branch = master
 [submodule "vtf2tga"]
 	path = vtf2tga
 	url = git@github.com:jaredballou/vtf2tga.git
+	branch = master
 [submodule "VTFLib"]
 	path = VTFLib
 	url = git@github.com:jaredballou/VTFLib.git
+	branch = master
 [submodule "libtxc_dxtn"]
 	path = libtxc_dxtn
 	url = git@github.com:jaredballou/libtxc_dxtn.git
+	branch = master
 [submodule "source-sdk-2013"]
 	path = source-sdk-2013
 	url = git@github.com:jaredballou/source-sdk-2013.git
+	branch = master
 [submodule "pysmx"]
 	path = pysmx
 	url = git@github.com:jaredballou/pysmx.git
+	branch = master
 [submodule "php-binary"]
 	path = php-binary
 	url = git@github.com:jaredballou/php-binary.git
+	branch = master
 [submodule "webgl-source"]
 	path = webgl-source
 	url = git@github.com:jaredballou/webgl-source.git
+	branch = master
 [submodule "SteamWorks"]
 	path = SteamWorks
 	url = git@github.com:jaredballou/SteamWorks.git
+	branch = master
 [submodule "open-steamworks"]
 	path = open-steamworks
 	url = git@github.com:jaredballou/open-steamworks.git
+	branch = master
 [submodule "sourcepawn-inc-parser"]
 	path = sourcepawn-inc-parser
 	url = git@github.com:jaredballou/sourcepawn-inc-parser.git
+	branch = master
 [submodule "sourcemod"]
 	path = sourcemod
 	url = git@github.com:jaredballou/sourcemod.git
+	branch = master
 [submodule "python-valve"]
 	path = python-valve
 	url = git@github.com:jaredballou/python-valve.git
+	branch = master
 [submodule "PHP-Source-Query"]
 	path = PHP-Source-Query
 	url = git@github.com:jaredballou/PHP-Source-Query.git
+	branch = master
 [submodule "Day-of-Infamy"]
 	path = Day-of-Infamy
 	url = git@github.com:NewWorldInteractive/Day-of-Infamy.git
+	branch = master
 [submodule "lysis-java"]
 	path = lysis-java
 	url = git@github.com:jaredballou/lysis-java.git
+	branch = master
 [submodule "smarty"]
 	path = smarty
 	url = git@github.com:smarty-php/smarty.git
+	branch = master
